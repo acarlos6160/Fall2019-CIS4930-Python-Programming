@@ -24,7 +24,9 @@ After finishing this course, students should be able to:
 - Apply python to solve various practical problems.
 
 ### Prerequisites
-A Grade of B or better in a programming course, such as COP 3330. Most of the homeworks will ask you to write code. You should either be registered in the Data Structures course or have already taken it. Come and talk to me if you do not have the prerequisite and you still want to take the course. 
+- A Grade of B or better in a programming course, such as COP 3330. Most of the homeworks will ask you to write code. 
+- You should either be registered in the Data Structures course or have already taken it. Come and talk to me if you do not have the prerequisite and you still want to take the course. 
+- Github, which will be used to distribute course materials, and handle quizzes and the final project.
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
