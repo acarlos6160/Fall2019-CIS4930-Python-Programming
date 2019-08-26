@@ -80,9 +80,9 @@ The final course grade will be computed as follows:
 |Tasks| Scores|
 |---| ---|
 |Attendance| 10 |
-|Quizzes| 45 |
+|Quizzes| 40 |
 |Final Project| 20 |
-|Final Exam|25|
+|Final Exam|30|
 
 ### Late Assignment Policy
 Students are expected to turn their assignments in on or before the due date. Late assignments will suffer a 10 percentage point penalty for the first 24 hour period. For example, an assignment worth 200 points turned in late will receive a 20 point penalty. Assignments turned in more than a day after the due date will receive a grade of `0', but you can still have it graded and receive feedback.
