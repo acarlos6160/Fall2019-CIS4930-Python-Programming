@@ -79,7 +79,7 @@ The final course grade will be computed as follows:
 
 |Tasks| Scores|
 |---| ---|
-|Class partition| 10 |
+|Attendance| 10 |
 |Quizzes| 45 |
 |Final Project| 20 |
 |Final Exam|25|
