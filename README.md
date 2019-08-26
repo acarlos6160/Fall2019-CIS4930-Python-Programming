@@ -18,10 +18,10 @@ Yan Ai
 This is an intermediate level course about programming in Python. Students are expected to know data structure beforehand. 
 
 After finishing this course, students should be able to:
--Understand python code,
--Write and debug python programs,
--Implement algorithms using python,
--Apply python to solve various practical problems.
+- Understand python code,
+- Write and debug python programs,
+- Implement algorithms using python,
+- Apply python to solve various practical problems.
 
 ### Prerequisites
 A Grade of B or better in a programming course, such as COP 3330. Most of the homeworks will ask you to write code. You should either be registered in the Data Structures course or have already taken it. Come and talk to me if you do not have the prerequisite and you still want to take the course. 
