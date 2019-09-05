@@ -36,7 +36,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Sep./05: [Data Types]
 - In-class Quiz 1: []
 - Sep./10:[Data Types]
-- Sep./12: [Operations]
+- Sep./12: []
 - Sep./17: [Functions]
 - Sep./19: [Functions]
 - In-class Quiz 2: []
