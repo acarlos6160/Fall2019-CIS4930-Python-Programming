@@ -10,7 +10,8 @@ Xifeng Gao
 - Homepage: https://gaoxifeng.github.io/
 ### Teaching Assistant
 Yan Ai
-- Office: TBD
+- TA Office: MCH 101D
+- Office: MCH 102D
 - Office hours: Wednesday, 04:00pm~06:00pm
 - aiyan327@gmail.com
 
