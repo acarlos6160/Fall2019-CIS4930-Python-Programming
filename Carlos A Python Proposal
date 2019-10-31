@@ -1,0 +1,51 @@
+Carlos A. Acosta
+caa18h
+
+Super Clock: Database-Driven Personal Planner
+	
+Usefulness:
+The purpose of this application will be to manage the user’s time as precisely as possible by automatically allocating time depending on when tasks are completed. We hope this application can help users optimize their time and help them ensure enough time is spent being productive but also enjoying life. The feedback provided by the app should prove invaluable for helping the user identify flaws in their time management and discover what truly/objectively helps them make the most out of life (allocate time for self-care as well).
+
+-Fixed events that can’t be moved around such as classes or meetings
+-Flexible events that can be moved around (can be recurring or non-recurring)
+-Focus on time management by allocating desired amount of time for particular tasks and events.
+
+For example, say you want to study 5 hours per day, well first you set up your solid events and the study time as a fluid event. The study time will be automatically allocated into the schedule (including study breaks).
+-Others events such as lunch or commute time can also be set up.
+
+Realness:
+Adherence to schedule can be scored on a daily basis to provide feedback and insight as to what type of schedule contributed to the better time management. This can help the user determine if it is better for them to study in the morning or the afternoon. Free time can be a fluid event which comprises the end of the day after no other events are scheduled. 
+
+The user can manually input the times at which they begin or end certain task to track excess or shortage of time.
+
+Basic Functions: Add static and/or fluid events to schedule. Dynamic allocation of fluid events.
+
+Advanced Functions: 
+-Real time dynamic rescheduling based on user’s adherence.
+-Coordinate events with friends.
+***Consider asking other students for functions they’d like to have since they are the demographic targeted by this app.
+-Rate events with level of importance to balance stress.
+-AI to analyze events and create a healthy balance between work and play.
+
+Priority feature is based on user entered ratings.
+
+  Algorithms
+•	First-Come, First-Served (FCFS) Scheduling
+•	Shortest-Job-Next (SJN) Scheduling
+•	Priority Scheduling
+•	Shortest Remaining Time
+•	Round Robin(RR) Scheduling
+•	Multiple-Level Queues Scheduling
+
+  Libraries
+•	sched: The scheduler class defines a generic interface to scheduling events.
+•	time: This module provides various time-related functions
+•	threading: This module constructs higher-level threading interfaces on top of the lower level _thread module.
+
+  Plan of work
+
+•	11/7: Working SQL database
+•	11/14: User interface create and view schedule.
+•	11/21: Real time dynamic rescheduling.
+•	11/28: Working Application Programming Interface(API) with at least one web based calendar like Google.
+•	12/5: Have a working program with little to no bugs.
